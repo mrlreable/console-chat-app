@@ -1,1 +1,1 @@
-# console-chat-app
+# Console chat app in Golang using websockets
