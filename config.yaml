@@ -1,4 +1,4 @@
-address:
+server:
   host: "localhost"
   port: 8080
-  
+  maxConnections: 50
